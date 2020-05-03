@@ -1,5 +1,8 @@
 <application>
   <component name="DebuggerSettings">
+    <capture-points>
+      <capture-point />
+    </capture-points>
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
